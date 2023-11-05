@@ -1,1 +1,1 @@
-Hello, I'm @Beachli. I am currently learning front end web development.
+Hello, I'm @Beachli. I am currently learning backend development in my spare time!
