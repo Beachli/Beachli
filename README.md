@@ -1,1 +1,4 @@
-Hello, I'm @Beachli. I am currently learning C programming.
+Hello, I'm @Beachli. 🏖️
+I am interested in many different areas of programming.
+
+Currently learning C.
